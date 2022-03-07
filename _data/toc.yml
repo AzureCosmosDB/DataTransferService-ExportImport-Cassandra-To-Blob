@@ -1,0 +1,20 @@
+- title: Welcome
+  url: /readme
+- title: Search
+  search: true
+
+- title: Tutorials
+  url: /tutorials/readme
+  not_numbered: true
+  expand_sections: true
+  sections:
+    - title: Azure CosmosDB Cassandra API Sample Data Setup
+      url: /tutorials/cassandra-sample-data-setup
+    - title: Provision Azure CosmosDB Data Transfer Cluster
+      url: /tutorials/provision-data-transfer-service
+    - title: Enable Managed Identity between Azure CosmosDB Cassandra Account and Azure Storage Account
+      url: /tutorials/managed-identity
+    - title: Export/Import data using Azure Cosmos DB Cassanra API & Azure Storage
+      url: /tutorials/export-import-sample
+    - title: Create Azure Resources (CosmosDB Account & Storage Account)
+      url: /tutorials/create-azure-resources
