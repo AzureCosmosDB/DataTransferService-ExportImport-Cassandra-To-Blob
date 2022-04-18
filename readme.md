@@ -1,4 +1,4 @@
-# Azure Cosmos DB Data Transfer Service Private Preview Notebooks
+# Azure Cosmos DB Data Transfer Service Export-Import from Cassandra API to Blob storage - Private Preview
 
 Azure Data Studio notebooks to export and import data from Azure Cosmos DB Cassandra API to Azure Storage.
 
